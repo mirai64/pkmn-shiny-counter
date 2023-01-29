@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(77, 77, 77);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.plus-button {
+    background-color: #2df763;
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 28px;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 12px 51px;
+    text-decoration: none;
+}
+
+.plus-button:hover {
+    background-color: #00b931;
+}
+
+.minus-button {
+    background-color: rgb(255, 79, 79);
+    display: inline-block;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 28px;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 12px 51px;
+    text-decoration: none;
+}
+
+.minus-button:hover {
+    background-color: rgb(194, 42, 42);
+}
+
+.menu-buttons {
+    background-color: transparent;
+    border-radius: 28px;
+    border: 2px solid white;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-size: 23px;
+    padding: 8px 20px;
+    text-decoration: none;
+}

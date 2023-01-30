@@ -55,6 +55,18 @@ body {
     text-decoration: none;
 }
 
+.method-icons {
+    transform: scale(0.35);
+}
+
+.dexnav-icon {
+    transform: scale(0.35);
+    border-radius: 50%;
+}
+
+/*dexnav class should be removed eventually; remake dexnav icon if possible. original file has outer glow
+which does not end evenly.*/
+
 .shiny-number {
     font-size: 90px;
 }

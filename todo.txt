@@ -1,0 +1,6 @@
+to do list for shiny counter: updated 1/29/2023
+
+- add icons for shiny charm, masuda method, etc.
+- link fonts from google fonts (maybe mochiy pop one or dm sans?)
+- create a .txt file of all pokemon shiny gifs for each generation
+(there are no gifs for scarlet and violet available so link them from serebii)

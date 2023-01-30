@@ -1,7 +1,8 @@
 to do list for shiny counter: updated 1/29/2023
 
-- link fonts from google fonts (maybe mochiy pop one or dm sans?)
-- create a .txt file of all pokemon shiny gifs for each generation
+- continue linking pokemon shiny gifs for each generation
+(generation 2 is finished; next is gens 3 to 9)
 (there are no gifs for scarlet and violet available so link them from serebii)
+- link fonts from google fonts (maybe mochiy pop one or dm sans?)
 - edit README.md
 - add to the description on github

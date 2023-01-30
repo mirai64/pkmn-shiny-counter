@@ -1,5 +1,6 @@
 contains the PNGs/GIFs for the shinies in gen 2
-images obtained from bulbapedia
+images obtained from bulbapedia:
+https://archives.bulbagarden.net/wiki/Category:Crystal_Shiny_sprites
 
 https://archives.bulbagarden.net/media/upload/f/f8/Spr_2c_001_s.png
 https://archives.bulbagarden.net/media/upload/6/6c/Spr_2c_002_s.png

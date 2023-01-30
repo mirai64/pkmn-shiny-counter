@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Setup - Pokémon Shiny Counter</title>
+    <link rel="stylesheet" href="/styles/setup.css">
+</head>
+<body>
+    <button class="menu-buttons" onclick="window.location.href='index.html'">Tracker</button>
+    <button class="menu-buttons" onclick="window.location.href='setup.html'">Setup</button>
+    <button class="menu-buttons" onclick="window.location.href='faq.html'">F.A.Q.</button>
+    <h2>Generation? (2 - 9)</h2>
+    <button class="gen-select">2</button>
+    <button class="gen-select">3</button>
+    <button class="gen-select">4</button>
+    <button class="gen-select">5</button>
+    <button class="gen-select">6</button>
+    <button class="gen-select">7</button>
+    <button class="gen-select">8</button>
+    <button class="gen-select">9</button>
+    <h2>Hunting Method?</h2>
+    <div class="pkmn-dropdown">
+        <button onclick="myFunction()" class="dropbtn">Choose an option from this menu.</button>
+        <div id="myDropdown" class="dropdown-content">
+            <a href="#">Random Encounter/Soft Reset</a>
+            <a href="#">Masuda Method</a>
+            <a href="#">Mass Outbreak</a>
+        </div>
+    </div>
+    <h2>What Pokémon are you hunting?</h2>
+    <div class="pkmn-dropdown">
+        <button onclick="myFunction()" class="dropbtn">Select a Pokémon from this menu.</button>
+        <div id="myDropdown" class="dropdown-content">
+            <a href="#">Pawmi</a>
+            <a href="#">Pawmo</a>
+            <a href="#">Pawmot</a>
+        </div>
+    </div>
+    <h2>Shiny Charm?</h2>
+    <input type="checkbox" id="shinycharm-check" name="shinycharm-check" value="shinycharmYes">
+    <h2>Show Shiny Preview?</h2>
+    <button class="menu-buttons">Yes</button>
+    <button class="menu-buttons">No</button>
+    <h2>Show Icons?</h2>
+    <button class="menu-buttons">Yes</button>
+    <button class="menu-buttons">No</button>
+</body>
+</html>

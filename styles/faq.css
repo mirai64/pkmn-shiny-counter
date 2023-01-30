@@ -1,0 +1,28 @@
+a {
+    color: white;
+}
+
+body {
+    background-color: rgb(77, 77, 77);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.menu-buttons {
+    background-color: transparent;
+    border-radius: 28px;
+    border: 2px solid white;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-size: 23px;
+    padding: 8px 20px;
+    text-decoration: none;
+}
+
+.pfp {
+    transform: scale(0.5);
+    border-radius: 300px;
+}

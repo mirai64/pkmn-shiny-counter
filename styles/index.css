@@ -21,7 +21,7 @@ body {
   }
   
 
-.plus-button {
+#plus-button {
     background-color: #2df763;
     display: inline-block;
     color: white;
@@ -79,6 +79,6 @@ body {
 /*dexnav class should be removed eventually; remake dexnav icon if possible. original file has outer glow
 which does not end evenly.*/
 
-.shiny-number {
+#shiny-number {
     font-size: 90px;
 }

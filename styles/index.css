@@ -9,6 +9,18 @@ body {
     text-align: center;
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+
 .plus-button {
     background-color: #2df763;
     display: inline-block;
